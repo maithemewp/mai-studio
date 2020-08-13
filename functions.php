@@ -1,8 +1,8 @@
 <?php
 /**
- * Mai Elegant theme.
+ * Mai Studio theme.
  *
- * @package   BizBudding\MaiElegant
+ * @package   BizBudding\MaiStudio
  * @link      https://bizbudding.com/
  * @author    BizBudding
  * @copyright Copyright © 2020 BizBudding
