@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'c25d918d7cfc16160911474a9902ffbd1646104f',
+    'reference' => 'bb27cada8019716eb3613dc3059673f4a71ad06d',
     'name' => 'maithemewp/mai-studio',
   ),
   'versions' => 
@@ -26,7 +26,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
+      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
     ),
     'maithemewp/mai-studio' => 
     array (
@@ -35,7 +35,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'c25d918d7cfc16160911474a9902ffbd1646104f',
+      'reference' => 'bb27cada8019716eb3613dc3059673f4a71ad06d',
     ),
   ),
 );
